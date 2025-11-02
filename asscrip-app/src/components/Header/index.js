@@ -1,4 +1,4 @@
-import React, { startTransition } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import Cookies from 'js-cookie';
 import { FaSearch, FaHeart, FaShoppingBag, FaUser } from "react-icons/fa";
